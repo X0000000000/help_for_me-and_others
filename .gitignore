@@ -1,0 +1,22 @@
+# 临时文件 | Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# 编辑器文件 | Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件 | Log files
+*.log
+
+# 构建文件 | Build files (if any future scripts are added)
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
